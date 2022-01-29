@@ -4,26 +4,34 @@ import java.io.FileNotFoundException;  // Import this class to handle errors
 import java.util.Scanner; // Import the Scanner class to read text files
 
 class InputNode {
+	// First: Can represent a machine or task depending on requirement
+	// Second: Represents task
+	
 	char first;
 	char second;
 	int penalty;
 	
-	public InputNode(char _first, char _second) {
-		this.first = _first;
-		this.second = _second;
+	public InputNode(char first, char second) {
+		this.first = first;
+		this.second = second;
 		this.penalty = -1;
 		
 	}
 	
-	public InputNode(char _first, char _second, char _penalty){
-		first = _first;
-		second = _second;
-		penalty = _penalty;
+	public InputNode(char first, char second, char penalty){
+		this.first = first;
+		this.second = second;
+		this.penalty = penalty;
 		
 	}
 }
 
+
 public class Main {
+	String[] sections = {"Name:", "forced partial assignment:", 
+						"forbidden machine:", "too-near tasks:",
+						"machine penalties:", "too-near penalities"};
+	
 	ArrayList<InputNode> partialAssignments = new ArrayList<InputNode>();
 	ArrayList<InputNode> forbiddenMachines = new ArrayList<InputNode>();
 	ArrayList<InputNode> tooNearTaks = new ArrayList<InputNode>();
