@@ -28,16 +28,19 @@ class InputNode {
 
 
 public class Main {
+	
+	// "too-near penalities is spelled incorrectly on purpose, don't change
 	String[] sections = {"Name:", "forced partial assignment:", 
 						"forbidden machine:", "too-near tasks:",
 						"machine penalties:", "too-near penalities"};
 	
 	ArrayList<InputNode> partialAssignments = new ArrayList<InputNode>();
 	ArrayList<InputNode> forbiddenMachines = new ArrayList<InputNode>();
-	ArrayList<InputNode> tooNearTaks = new ArrayList<InputNode>();
+	ArrayList<InputNode> tooNearTasks = new ArrayList<InputNode>();
 	ArrayList<InputNode> tooNearPenalties = new ArrayList<InputNode>();
-	
 	int[][] machinePenalties = new int[8][8];
+	
+	
 	File myFile;
 	Scanner myReader;
 	
