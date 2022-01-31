@@ -28,7 +28,7 @@ def run_A1():
     print("Program compiled!")
 
     for i in range(1, num_test_cases+1):
-        os.system(f"java Main A1/src/tests/test{i}.txt A1/src/outputs/output{i}.txt")
+        os.system(f"java Main tests/test{i}.txt A1/src/outputs/output{i}.txt")
 
     # Clean
     os.system("rm Main.class | rm InputNode.class")
