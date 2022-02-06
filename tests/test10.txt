@@ -1,1 +1,21 @@
+Name:
 test10
+
+forced partial assignment:
+(9, A)
+
+forbidden machine:
+
+too-near tasks:
+
+machine penalties:
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+
+too-near penalities

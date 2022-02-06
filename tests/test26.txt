@@ -1,1 +1,45 @@
+Name:
 test26
+
+forced partial assignment:
+
+
+
+forbidden machine:
+
+
+
+
+
+ 
+too-near tasks:
+
+
+
+
+
+
+
+
+machine penalties:
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+
+
+too-near penalities
+(B,H,3)
+(A,C,1)
+(H,A,5)
+(E,F,2)
+
+
+
+
+
+

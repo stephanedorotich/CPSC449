@@ -1,1 +1,24 @@
+Name:
 test6
+
+forced partial assignment:
+
+forbidden machine:
+(1,A)
+(2,F)
+(3,C)
+(4,H)
+ 
+too-near tasks:
+
+machine penalties:
+0 3 6 7 99 1 2 3
+1000 8 2 77 3 0 3 4
+1 1 0 9 999 2 6 11
+1 2 3 4 5 6 7 0
+3 88 13 9 3 55 66 77
+5 2 13 33 6534 24 6 90
+8 1 111 1 2 6 32 40
+12 9 7 1 1 1 2 2
+
+too-near penalities
