@@ -1,0 +1,20 @@
+Name:
+test22
+
+forced partial assignment:
+
+forbidden machine:
+ 
+too-near tasks:
+
+machine penalties:
+2 1 15 7 8 9 0 7
+23 1 457 53 642 6 9 0
+56 0 2 23 75 64 642 2
+0 53 12 3 75 6 35 1
+41 65 123 64 4 0 124 125
+126 64 0 26 63 5 12 533
+124 244 1233 0 123 54 6 123
+368 2577 356 215 0 678 455 1000000
+
+too-near penalities

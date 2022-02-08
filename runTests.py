@@ -13,6 +13,9 @@ def main():
         print("Please provide the assignment name (A1, A2, or A3)")
         exit()
 
+    if not (os.path.isdir("./A1/src/outputs")):
+        os.mkdir("./A1/src/outputs")
+
     # Run tests
     if sys.argv[1] == "A1":
         run_A1()
