@@ -2,6 +2,8 @@ Name
 test28
 
 forced partial assignment
+(1,A)
+(2,B)
 
 forbidden machine
  
@@ -18,4 +20,5 @@ machine penalties
 0 0 0 0 0 0 0 0
 
 too-near penalities:
-(B,C,1)
+(A,B,4)
+(A,B,8)

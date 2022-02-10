@@ -1,11 +1,13 @@
-Name:
-test27
+Name: 
+test27  
 
-forced partial assignment:
+forced partial assignment: 
+(1,A)
+(2,B)
 
-forbidden machine:
+forbidden machine:   
  
-too-near tasks:
+too-near tasks: 
 
 machine penalties:
 0 0 0 0 0 0 0 0     
@@ -15,10 +17,8 @@ machine penalties:
 0 0 0 0 0 0 0 0 
 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0
-0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0  
 
-too-near penalities
-(B,H,3)  
-(A,C,1)
-(H,A,5) 
-(E,F,2)   
+too-near penalities     
+(A,B,4)      
+(A,B,8)   

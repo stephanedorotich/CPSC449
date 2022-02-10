@@ -2,7 +2,8 @@ Name:
 test26
 
 forced partial assignment:
-
+(1,A)
+(2,B)
 
 
 forbidden machine:
@@ -33,10 +34,8 @@ machine penalties:
 
 
 too-near penalities
-(B,H,3)
-(A,C,1)
-(H,A,5)
-(E,F,2)
+(A,B,4)
+(A,B,8)
 
 
 
