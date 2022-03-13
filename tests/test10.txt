@@ -2,7 +2,7 @@ Name:
 test10
 
 forced partial assignment:
-(9, A)
+(9,A)
 
 forbidden machine:
 

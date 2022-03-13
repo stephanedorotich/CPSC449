@@ -4,7 +4,7 @@ test11
 forced partial assignment:
 
 forbidden machine:
-(9, A)
+(9,A)
 
 too-near tasks:
 

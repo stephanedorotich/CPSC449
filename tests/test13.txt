@@ -2,7 +2,7 @@ Name:
 test13
 
 forced partial assignment:
-(1, I)
+(1,I)
 
 forbidden machine:
 

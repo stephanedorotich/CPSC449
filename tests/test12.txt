@@ -6,7 +6,7 @@ forced partial assignment:
 forbidden machine:
 
 too-near tasks:
-(9, A)
+(9,A)
 
 machine penalties:
 0 0 0 0 0 0 0 0

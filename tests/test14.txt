@@ -4,7 +4,7 @@ test14
 forced partial assignment:
 
 forbidden machine:
-(1, I)
+(1,I)
 
 too-near tasks:
 
