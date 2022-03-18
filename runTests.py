@@ -65,9 +65,12 @@ def run_A2(n):
     os.system("rm main A2/a2.hi A2/a2.o")
 
 
-def run_A3():
-    print("hello")
-
+def run_A3(n):
+    if not n == 0:
+        os.system(f"swipl A3/a3.pl tests/test{n}.txt A1/src/outputs/output{n}.txt")
+    else:
+        for i in range(1, num_test_cases+1):
+            os.system(f"swipl A3/a3.pl tests/test{i}.txt A1/src/outputs/output{i}.txt")
 
 if __name__=="__main__":
     main()
