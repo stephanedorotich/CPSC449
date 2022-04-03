@@ -1,5 +1,5 @@
 Name:
-wrongpartialassignment
+wrongtask
 
 forced partial assignment:
 (1,A)
@@ -7,10 +7,9 @@ forced partial assignment:
 (3,C)
 (4,D)
 (5,E)
-(6,F)
-(7,A)
 
 forbidden machine:
+(6,6)
  
 too-near tasks:
 

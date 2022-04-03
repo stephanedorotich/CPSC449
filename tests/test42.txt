@@ -1,21 +1,31 @@
-wrongkeyword.txt           -> Error while parsing input file
-wrongkeyword2.txt          -> Error while parsing input file
-wrongpartialassignment     -> partial assignment error
-invalidtoonear.txt         -> No valid solution possible!
-invalid2.txt               -> No valid solution possible!
-invalidforbidden.txt       -> No valid solution possible!
-wrongmachine.txt           -> invalid machine/task
-wrongtask.txt              -> invalid machine/task
-wrongmachpenalty1.txt      -> machine penalty error
-wrongmachpenalty2.txt      -> machine penalty error
-wrongnumbermachine.txt     -> invalid penalty
-wrongtooneartask.txt       -> invalid task
-wrongnumbertoonear.txt     -> invalid penalty
-garbage.txt                -> Error while parsing input file
-nochoice.txt               -> Solution H G F E D C B A; Quality: 800
-machpen1.txt               -> Solution A B C D E F H G; Quality: 36
-machpen2.txt               -> Solution A B C D E H G F; Quality: 45
-toonearpen1.txt            -> Solution A B C D E H F G; Quality: 16
-toonearpen2.txt            -> Solution A B C D E G F H; Quality: 18
-optzero.txt                -> Solution A B C D E F G H; Quality: 0
-nochoice2.txt              -> Solution A B C D E F G H; Quality: 8
+Name:
+toonearpen1
+
+forced partial assignment:
+(1,A)
+(2,B)
+(3,C)
+(4,D)
+(5,E)
+
+forbidden machine:
+(6,F)
+ 
+too-near tasks:
+
+machine penalties:
+1 1 1 1 1 1 1 1
+1 1 1 1 1 1 1 1
+1 1 1 1 1 1 1 1
+1 1 1 1 1 1 1 1
+1 1 1 1 1 1 1 1
+1 1 1 1 1 1 1 1
+1 1 1 1 1 1 1 1
+1 1 1 1 1 1 1 1
+
+too-near penalities
+(E,G,3)
+(G,H,7)
+(F,H,7)
+(H,G,9)
+(F,G,8)

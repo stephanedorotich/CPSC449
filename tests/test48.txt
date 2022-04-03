@@ -1,5 +1,5 @@
 Name:
-wrongmachpenalty1
+wrongmachpenalty2
 
 forced partial assignment:
 (1,A)
@@ -16,7 +16,8 @@ machine penalties:
 1 1 1 1 1 1 1 1
 1 1 1 1 1 1 1 1
 1 1 1 1 1 1 1 1
-1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1
+1 1 1 1 1 1 1 1
 1 1 1 1 1 1 1 1
 1 1 1 1 1 1 1 1
 1 1 1 1 1 1 1 1

@@ -1,5 +1,5 @@
 Name:
-wrongtooneartask
+2wrong
 
 forced partial assignment:
 (1,A)
@@ -19,9 +19,7 @@ machine penalties:
 1 1 1 1 1 1 1 1
 1 1 1 1 1 1 1 1
 1 1 1 1 1 1 1 1
-1 1 1 1 1 1 1 1
-1 1 1 1 1 1 1 1
+1 1 1 1 1 1 1 1.5
 
 too-near penalities
-(A,C,7)
-(B,X,3)
+(A,C,4)

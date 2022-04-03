@@ -1,7 +1,7 @@
 import os
 import sys
 
-num_test_cases = 55;
+num_test_cases = 54;
 ass = "";
 
 def main():

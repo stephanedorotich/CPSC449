@@ -1,5 +1,5 @@
 Name:
-toonearpen2
+wrongkeyword
 
 forced partial assignment:
 (1,A)
@@ -7,9 +7,10 @@ forced partial assignment:
 (3,C)
 (4,D)
 (5,E)
-
-forbidden machine:
 (6,F)
+(7,G)
+
+forbiden machine:
  
 too-near tasks:
 
@@ -24,10 +25,4 @@ machine penalties:
 1 1 1 1 1 1 1 1
 
 too-near penalities
-(E,G,3)
-(G,H,7)
-(F,H,7)
-(H,G,9)
-(F,G,8)
-(F,A,7)
-(G,A,8)
+
