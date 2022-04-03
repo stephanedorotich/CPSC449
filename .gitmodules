@@ -4,3 +4,7 @@
 [submodule "A2"]
 	path = A2
 	url = https://github.com/stephanedorotich/A2
+[submodule "A3"]
+	path = A3
+	url = https://github.com/stephanedorotich/A3
+
